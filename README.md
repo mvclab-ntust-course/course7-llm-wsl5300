@@ -64,6 +64,6 @@ peft_config_IA3 = IA3Config(
 For details, please refer to the [mvc\_week7.pdf](mvc_week7.pdf) file.
 
 
-<div><img src="https://github.com/mvclab-ntust-course/course7-llm-wsl5300/blob/main/images/pdf.png" width=800 ></div>
+<div align="center"><img src="https://github.com/mvclab-ntust-course/course7-llm-wsl5300/blob/main/images/pdf.png" width=600 ></div>
 
 
