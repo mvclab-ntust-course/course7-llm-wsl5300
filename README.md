@@ -63,6 +63,6 @@ peft_config_IA3 = IA3Config(
 
 For details, please refer to the [mvc\_week7.pdf](mvc_week7.pdf) file.
 
-![PDF Preview](images/CleanShot 2024-06-27 at 13.27.17@2x.png)
+![PDF Preview](mvc_week7.pdf)
 
 
