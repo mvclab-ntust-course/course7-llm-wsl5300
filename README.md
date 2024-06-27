@@ -1,8 +1,11 @@
 # LLM-Homework
 
+</br></br>
+
 ## Week 6: Learn Basic PyTorch
 
 ![Week 6](images/week6.png)
+</br></br>
 
 ## Week 7-1: LoRA
 
@@ -58,10 +61,11 @@ peft_config_IA3 = IA3Config(
 )
 ```
 <div><img src="https://github.com/mvclab-ntust-course/course7-llm-wsl5300/blob/main/images/week7_4.png" width=800 ></div>
+</br></br>
 
 ## Week 7-2: LaTeX
 
-For details, please refer to the [mvc\_week7.pdf](mvc_week7.pdf) file.
+For details, please refer to the [mvc\_week7.pdf](mvc_week7.pdf) file.大概像這樣：
 
 
 <div align="center"><img src="https://github.com/mvclab-ntust-course/course7-llm-wsl5300/blob/main/images/pdf.png" width=600 ></div>
